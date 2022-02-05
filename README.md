@@ -1,2 +1,2 @@
-# Ci-ncia_da_Computa-o
+# Ciência_da_Computação
 Repositório relacionado aos exercícios realizados na faculdade
